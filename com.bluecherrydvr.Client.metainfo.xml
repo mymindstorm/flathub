@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.bluecherrydvr.Client</id>
+
+  <name>Bluecherry Client</name>
+  <summary>DVR Client</summary>
+
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0-or-later</project_license>
+
+  <translation type="qt">bluecherryclient</translation>
+
+  <description>
+    <p>
+      Client for Bluecherry video surveillance server.
+    </p>
+  </description>
+
+  <launchable type="desktop-id">com.bluecherrydvr.Client.desktop</launchable>
+
+  <url type="homepage">https://www.bluecherrydvr.com/</url>
+  <url type="help">https://www.bluecherrydvr.com/contact/</url>
+  <url type="faq">https://docs.bluecherrydvr.com/bluecherry-client</url>
+
+  <screenshots>
+    <screenshot type="default">
+      <image>https://bluecherry-apps.readthedocs.io/en/latest/_images/media_1343401030662_display.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://bluecherry-apps.readthedocs.io/en/latest/_images/media_1343402235356_display.png</image>
+    </screenshot>
+  </screenshots>
+
+  <content_rating type="oars-1.1" />
+
+  <releases>
+    <release version="2.2.9" date="2021-06-01">
+      <url>https://github.com/bluecherrydvr/bluecherry-client/releases/tag/2.2.9</url>
+    </release>
+  </releases>
+</component>
